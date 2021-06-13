@@ -17,7 +17,7 @@
     <dependency>
       <groupId>pl.coderion</groupId>
       <artifactId>openfoodfacts-java-wrapper</artifactId>
-      <version>0.1</version>
+      <version>0.9.3</version>
     </dependency>
   </dependencies>
 
