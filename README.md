@@ -1,5 +1,7 @@
 ## Demo application using [Java Wrapper for OpenFoodFacts](https://github.com/openfoodfacts/openfoodfacts-java)
 
+Java 11 or more recent is required to run the application
+
 ### How to use
 
 Add one dependency to your POM file - check the current version [here](https://github.com/openfoodfacts/openfoodfacts-java)
